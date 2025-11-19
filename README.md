@@ -1,4 +1,4 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+  ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date :
 # Reg. No. 
@@ -48,8 +48,29 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+### **Example 1: Street Night Scene **  
+- **Original Image Description:** A quiet street at night with neon lights.   
+- **Prompt Used:**  
+  > “A quiet street at night with glowing blue and pink neon lights, wet pavement reflecting the colors, and buildings on both sides in a cyberpunk style.”
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/432f4adc-9209-48dd-950c-9c1782f901a4" />
+
+- **Generated Output:** Generated image captured the neon glow and street layout closely matching the original.
+
+
+### **Example 2: Cat Sitting Near a Window**
+- **Original Image Description:** A cat looking outside through a bright window.  
+- **Prompt Used:**  
+  > “A fluffy orange cat sitting near a window with strong natural light, wooden floor, soft shadows, and a warm cozy atmosphere.”
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/51089977-64b1-43ef-b6af-33041f8f0ca6" />
+
+
+- **Generated Output:** The generated image reflected the lighting, pose, and warm mood similar to the original.
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
